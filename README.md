@@ -1,6 +1,6 @@
 # Gpt3Landing
 
-![Project Screenshot](./assets/cap.png)
+![Project Screenshot](./app/assets/cap.png)
 
 This project was generated using the **V0 Tool** and built with [Angular CLI](https://github.com/angular/angular-cli) version 19.2.0.
 
